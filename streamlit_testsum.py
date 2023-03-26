@@ -122,17 +122,7 @@ Some top Muslim religious leaders of Karnataka on Saturday held a meeting where 
 
 ''We will not hit the street or create ruckus on the road. We will fight for our rights legally.'' he added.
 
-He said there was no objection to Vokkaligas and Lingayats getting additional reservation but it should not happen by taking away someone else's rights.
 
-"We want to appeal to the Vokkaliga and Lingayat seers whether they would like to take those rights which were snatched from others and given to them. We want them to build pressure on the government to get their due share of reservation,'' he said.
-
-According to him, it was possible to enhance the reservation for Vokkaligas and Lingayats without taking it away from Muslims.
-
-In the meeting at the Khadaria Masjid on Millers Road, Muslim religious leaders also consulted lawyers on taking forward the fight legally.
-
-After the Karnataka government decided to increase the reservation for Vokkaligas in 2C category from four per cent to six per cent and Lingayats in 2D category from five per cent to seven per cent, Basava Jaya Mrutyunjaya Swamiji of Panchamasali Peeth ended his two-year old agitation.
-
-He, however, said he had only ''halted'' the agitation till the elections are over and would renew his demands until they are met completely.
 
 According to the Swamiji, the demand was for 15 per cent reservation for Lingayats.
 
