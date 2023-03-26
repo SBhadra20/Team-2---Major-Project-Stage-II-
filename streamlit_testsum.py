@@ -106,27 +106,15 @@ def summarize(text):
     summary = decode_summary(generated_ids)
     return summary
 
-text="""Several Muslim groups have decided to launch agitations and mount legal challenge to Karnataka BJP government's decision to remove Muslims from the 2B category of Other Backward Classes, which gave them four per cent reservation.
-
-The Karnataka Cabinet, which met on Friday, had also decided to split this quantum of four per cent equally between Vokkaligas and Veerashaiva-Lingayats at two per cent each in jobs and admissions in educational institutions.
-
-The move, which comes ahead of the Assembly elections that are due by May, was welcomed by the two politically influential communities.
-
-The state cabinet also decided that the Muslim community in the state can now avail of benefits under the 10 per cent quota for Economically Weaker Sections (EWS), which is decided based on family income.
-
-Muslim termed it a ''grave injustice meted out to them''.
-
-Some top Muslim religious leaders of Karnataka on Saturday held a meeting where they denounced the move and vowed to fight it out legally. They also called it a political move by the BJP government to win the upcoming Assembly election.
-
-"Today, Muslims are below the SC and ST in terms of education. You can make out from the atrocities being perpetrated against the Muslims," Maulavi Maqsood Imran of Jamia Masjid and a member of the Ulema Council told media.
-
-''We will not hit the street or create ruckus on the road. We will fight for our rights legally.'' he added.
-
-
-
-According to the Swamiji, the demand was for 15 per cent reservation for Lingayats.
-
-Sri Nirmalanandanatha Swamiji, a key religious leader of the Vokkaliga community, expressed his happiness over the two per cent increase in reservation for the Vokkaligas."""
+text="""Mumbai: Captain Harmanpreet Kaur called it a “dream” after Mumbai Indians emerged champions of the inaugural Women’s Premier League here on Sunday.
+MI first restricted Delhi Capitals to 131 for nine and then overhauled the target with three balls to spare to record a seven wicket win in the summit clash.
+“It has been a great experience, we were waiting for this for so many years. Everyone enjoyed this throughout the dressing room. It feels like a dream, for everyone
+here,” Harmanpreet said during the post-match presentation. “So many people were asking when WPL will come and that day is here, and we are so happy and proud.” 
+MI were 23 for 2 in the fourth over while chasing 132 to win but Nat Sciver-Brunt smashed a 55-ball 60 not out to take them home. “I think having a long batting
+line-up, we had to go there and express. Very happy with how everyone performed. I think staying positive is key, we were lucky with full tosses going in our favour,”
+the MI skipper said. “This is a special moment for all of us, I have been waiting a long time and today I know what it feels like to be winning. We keep talking 
+about being positive, and we executed our plans really well and that’s the reason I’m standing here today.”
+"""
 
 print(summarize(text))
 
