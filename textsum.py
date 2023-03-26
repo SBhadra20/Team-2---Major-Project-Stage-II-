@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1mBqgUYTVxr31Y84ReR_kYanjk_HPPGzt
 """
 
-!pip install streamlit
+pip install streamlit
 
 import streamlit as st
 from spacy import displacy
